@@ -13,9 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void TestUpload(){
 
-        int i= 10+1;
-        int ii= 60;
-        int iii= i+ii;
+        int i= 90;
+        int ii= 50;
+        int iii= i+ii*2;
 
         String string= "something";
         boolean b= true;
