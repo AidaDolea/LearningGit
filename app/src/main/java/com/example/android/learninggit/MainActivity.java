@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void TestUpload(){
 
-        int i= 1+1;
-        int ii= 2+2;
+        int i= 10+1;
+        int ii= 60;
         int iii= i+ii;
 
         String string= "something";
